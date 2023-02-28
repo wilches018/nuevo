@@ -178,12 +178,12 @@ body {
 }
 .container-form{
     position: relative;
-    left: 15%;
-    top: -14%;
+    right: 4%;
+    top: -4%;
 }
 
 .container-profile{
     position: relative;
-    left: 20%;
-    top: -15%;
+    left: 3%;
+    top: -4%;
 }
